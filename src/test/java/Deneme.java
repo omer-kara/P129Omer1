@@ -3,3 +3,7 @@ public class Deneme {
         System.out.println("Merhaba");
     }
 }
+//Restore . --> Tamamen Working Space'i temizler
+//Stash --> Hafizaya alir
+
+
